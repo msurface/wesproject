@@ -1,0 +1,25 @@
+.steps {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.planned-trip-panel {
+    padding-bottom: 30px;
+}
+
+.test {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.submit {
+    margin-left: 10px;
+}
+
+#sub {
+    margin-bottom: 10px;
+}
+
+#map {
+    height: 100%;
+  }
